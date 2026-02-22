@@ -1,0 +1,50 @@
+
+
+  {
+    "id": 1,
+    "name": "Wireless Bluetooth Headphones",
+    "category": "Electronics",
+    "price": 1499,
+    "rating": 4.5,
+    "image": "https://via.placeholder.com/150",
+    "description": "Comfortable over-ear wireless headphones with deep bass and long battery life."
+  },
+  {
+    "id": 2,
+    "name": "Smartwatch with Heart Rate Monitor",
+    "category": "Wearables",
+    "price": 2999,
+    "rating": 4.2,
+    "image": "https://via.placeholder.com/150",
+    "description": "Track your steps, heart rate, and notifications on the go."
+  },
+  {
+    "id": 3,
+    "name": "Gaming Mouse RGB",
+    "category": "Accessories",
+    "price": 899,
+    "rating": 4.6,
+    "image": "https://via.placeholder.com/150",
+    "description": "High-precision optical sensor with customizable RGB lighting."
+  },
+  {
+    "id": 4,
+    "name": "Mechanical Keyboard",
+    "category": "Accessories",
+    "price": 2499,
+    "rating": 4.8,
+    "image": "https://via.placeholder.com/150",
+    "description": "Durable mechanical switches with RGB lighting and ergonomic design."
+  },
+  {
+    "id": 5,
+    "name": "USB-C Fast Charger",
+    "category": "Electronics",
+    "price": 799,
+    "rating": 4.4,
+    "image": "https://via.placeholder.com/150", 
+  }
+
+  export default data;
+  
+  
