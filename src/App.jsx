@@ -20,7 +20,7 @@ export default function App() {
     return () => unsubscribe();
   }, []);
 
-  // ✅ MUST be inside component
+
   if (checking) {
     return (
       <div style={{ padding: 40 }}>
